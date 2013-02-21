@@ -144,7 +144,7 @@ TRACE
 
   use Devel::OverrideGlobalRequire;
 
-  override_global_require( sub { ... } );
+  Devel::OverrideGlobalRequire::override_global_require( sub { ... } );
 
 =head1 DESCRIPTION
 
