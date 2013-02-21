@@ -73,8 +73,8 @@
       "homepage" : "https://metacpan.org/release/Devel-OverrideGlobalRequire",
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/dagolden/devel-overrideglobalrequire.git",
-         "web" : "https://github.com/dagolden/devel-overrideglobalrequire"
+         "url" : "git://git.shadowcat.co.uk/p5sagit/Devel-OverrideGlobalRequire.git",
+         "web" : "http://git.shadowcat.co.uk/gitweb/gitweb.cgi?p=p5sagit/Devel-OverrideGlobalRequire.git;a=summary"
       }
    },
    "version" : "0.001"
